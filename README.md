@@ -1,2 +1,5 @@
 # hello-world
-Just an another repostitory.
+
+Hi Humans!
+
+I am a MUSTer( Also a designer ) who is owing to learn how to use github!
